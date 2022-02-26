@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+  font-family: 'Roboto Serif', sans-serif;
+}
+
+.legend {
+  font-size: 10px;
+  line-height: 10px;
+}
+ .legend a {
+   color: inherit;
+   text-decoration: none;
+ }
